@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: aliceblue;
+    background-image: url('/background/rain1.jpg'); 
+    background-size: cover;
+    background-repeat: repeat-y;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#result-div{
+    font-size: 10vw;
+}
